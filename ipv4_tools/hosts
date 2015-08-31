@@ -22,6 +22,24 @@
 54.186.104.15 production.s3.rubygems.org
 # Ruby Gems End
 
+# AngularJS Start
+173.255.114.241 angularjs.org
+173.255.114.241 code.angularjs.org
+173.255.114.241 docs.angularjs.org
+173.255.114.241 blog.angularjs.org
+173.255.114.241 builtwith.angularjs.org
+23.235.40.249 cdn.firebase.com
+23.235.40.249 fallback.global-ssl.fastly.net
+23.235.40.249 production.fastly.static.firebase.com
+23.235.40.249 global-ssl.fastly.net
+# AngularJS End
+
+# JSFiddle Start
+162.243.36.109 jsfiddle.net
+54.230.195.117 togetherjs.com
+54.230.198.102 widget.intercom.io
+# JSFiddle End
+
 # Gmail Start
 64.233.188.109 gmail-imap.l.google.com
 64.233.188.109 gmail-pop.l.google.com
