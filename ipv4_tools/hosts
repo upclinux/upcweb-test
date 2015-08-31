@@ -16,6 +16,12 @@
 #google=64.233.162.82
 #google_video=203.133.8.246 
 
+# Ruby Gems Start
+23.235.40.249 rubygems.global.ssl.fastly.net
+54.186.104.15 production.cf.rubygems.org
+54.186.104.15 production.s3.rubygems.org
+# Ruby Gems End
+
 # Gmail Start
 64.233.188.109 gmail-imap.l.google.com
 64.233.188.109 gmail-pop.l.google.com
