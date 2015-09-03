@@ -18506,6 +18506,7 @@
 #23.32.248.25 b.static.ak.fbcdn.net
 173.252.88.67 b.static.ak.facebook.com
 173.252.88.67 b.static.ak.fbcdn.net
+173.252.88.67 b-www.facebook.com
 104.78.23.174 connect.facebook.net
 23.32.248.41 creative.ak.fbcdn.net
 #173.252.102.13 d.facebook.com
@@ -18521,8 +18522,15 @@
 173.252.88.67 ent-d.xx.fbcdn.net
 173.252.88.67 ent-e.xx.fbcdn.net
 103.31.45.9 external.ak.fbcdn.net
-23.32.248.66 fbcdn-creative-a.akamaihd.net
+#23.32.248.66 fbcdn-creative-a.akamaihd.net
+23.67.253.35 fbcdn-creative-a.akamaihd.net
 72.246.188.82 fbcdn-photos-a.akamaihd.net
+23.218.157.155 fbcdn-photos-a-a.akamaihd.net
+23.218.157.160 fbcdn-photos-b-a.akamaihd.net
+23.218.157.144 fbcdn-photos-c-a.akamaihd.net
+23.218.157.144 fbcdn-photos-d-a.akamaihd.net
+23.218.157.144 fbcdn-photos-e-a.akamaihd.net
+23.218.157.136 fbcdn-photos-f-a.akamaihd.net
 72.246.188.19 fbcdn-photos-e-a.akamaihd.net
 209.116.151.65 fbcdn-profile-a.akamaihd.net
 23.205.168.10 fbcdn-sphotos-a.akamaihd.net
@@ -18566,7 +18574,8 @@
 124.40.53.34 photos-h.ak.fbcdn.net
 23.32.248.72 platform.ak.fbcdn.net
 69.22.138.184 profile.ak.fbcdn.net
-31.13.77.12 scontent.xx.fbcdn.net
+#31.13.77.12 scontent.xx.fbcdn.net
+173.252.88.67 scontent.xx.fbcdn.net
 31.13.77.12 scontent-a.xx.fbcdn.net
 31.13.70.7 scontent-a-lax.xx.fbcdn.net
 31.13.79.251 scontent-a-sin.xx.fbcdn.net
