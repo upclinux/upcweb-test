@@ -18496,6 +18496,7 @@
 173.252.90.6 facebook.com
 173.252.90.6 fbcdn.net
 173.252.90.6 m.facebook.com
+173.252.90.6 webdav.facebook.com
 #173.252.74.27 b-api.facebook.com
 #173.252.74.27 b-graph.facebook.com
 173.252.90.6 b-api.facebook.com
@@ -18647,7 +18648,8 @@
 199.27.74.133 gist-assets.github.com
 23.21.43.130 git.io
 192.30.252.128 github.com
-103.245.222.249 github.global.ssl.fastly.net
+23.235.40.133 github.global.ssl.fastly.net
+23.235.40.133 github.map.fastly.net
 199.27.74.133 goagent.github.io
 199.27.74.133 google.github.io
 199.27.74.133 help.github.com
@@ -19410,8 +19412,8 @@
 192.0.77.2 i1.wp.com
 192.0.77.2 i2.wp.com
 192.0.80.242 lb.gravatar.com
-66.155.9.238 lb.wordpress.com
-66.155.9.238 lucifr.wordpress.com
+192.0.78.13 lb.wordpress.com
+192.0.78.13 lucifr.wordpress.com
 192.0.81.250 r-login.wordpress.com
 68.232.44.121 s.gravatar.com
 68.232.44.119 s.stats.wordpress.com
