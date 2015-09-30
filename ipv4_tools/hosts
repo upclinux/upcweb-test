@@ -22,6 +22,20 @@
 54.186.104.15 production.s3.rubygems.org
 # Ruby Gems End
 
+# VPS Start
+# OpenShift
+54.174.51.64 openshift.com
+54.172.23.174 openshift.redhat.com52.3.155.75 hub.openshift.com
+52.3.201.240 developers.openshift.com
+52.3.201.240 help.openshift.com
+# Heroku
+54.230.194.95 d3k90kvix375hb.cloudfront.net
+54.192.16.140 dlgzith499dss.cloudfront.net
+54.192.193.9 dmrvs9yavc1w2.cloudfront.net
+54.240.160.53 d2fjue5z6foteq.cloudfront.net
+72.21.91.8 cdn.optimizely.com
+# VPS End
+
 # AngularJS Start
 173.255.114.241 angularjs.org
 173.255.114.241 code.angularjs.org
