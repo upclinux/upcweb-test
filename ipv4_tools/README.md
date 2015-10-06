@@ -1,6 +1,8 @@
 Readme
 ===
 
+![火箭队](https://raw.githubusercontent.com/upclinux/upcweb-test/master/ipv4_tools/a.jpg)
+
 既然你诚心诚意地问了，
 
 我们就大发慈悲的告诉你——
@@ -22,5 +24,3 @@ Readme
 白洞，白色的明天在等着我们！！
 
 就是这样~喵~~~~
-
-（装 360 的记得先卸掉，否则改不了）
