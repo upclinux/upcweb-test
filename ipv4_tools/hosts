@@ -10,7 +10,7 @@
 ::1 localhost 
 
 # DO NOT MODIFY THESE TWO LINES MANUALLY! 
-# Because the China goverment blocks Google via both hostname and IP,
+# Because the China government blocks Google via both hostname and IP,
 # once you find an avaliable IP, 
 # you should use "Find/Replace" menu in a text editor to change.
 #google=64.233.162.82
