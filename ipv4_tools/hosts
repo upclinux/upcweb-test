@@ -25,7 +25,8 @@
 # VPS Start
 # OpenShift
 54.174.51.64 openshift.com
-54.172.23.174 openshift.redhat.com52.3.155.75 hub.openshift.com
+54.172.23.174 openshift.redhat.com
+52.3.155.75 hub.openshift.com
 52.3.201.240 developers.openshift.com
 52.3.201.240 help.openshift.com
 # Heroku
@@ -3453,8 +3454,8 @@
 203.208.41.144 blogsearch.google.cn
 203.208.41.144 books.google.cn
 203.208.41.144 ditu.google.cn
-203.208.41.144 dl.google.com
-203.208.41.144 fonts.googleapis.com
+64.233.162.84 dl.google.com
+64.233.162.84 fonts.googleapis.com
 203.208.41.144 g.cn
 203.208.41.144 gg.google.cn
 203.208.41.144 google.cn
