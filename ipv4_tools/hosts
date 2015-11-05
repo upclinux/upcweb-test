@@ -15,6 +15,7 @@
 # you should use "Find/Replace" menu in a text editor to change.
 #google=216.58.211.66
 #google_video=203.133.8.246 
+#备选：202.86.162.187（澳门电讯）
 
 # Ruby Gems Start
 23.235.40.249 rubygems.global.ssl.fastly.net
@@ -25,7 +26,7 @@
 # VPS Start
 # OpenShift
 54.174.51.64 openshift.com
-54.172.23.174 openshift.redhat.com
+54.175.27.247 openshift.redhat.com
 52.3.155.75 hub.openshift.com
 52.3.201.240 developers.openshift.com
 52.3.201.240 help.openshift.com
